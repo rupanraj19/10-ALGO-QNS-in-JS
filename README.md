@@ -1,0 +1,1 @@
+# 10-ALGO-QNS-in-JS
